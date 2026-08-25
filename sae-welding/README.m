@@ -28,4 +28,3 @@ Topics included:
  - Welding in different positions and material orientations
 
 The MIG workshops provided additional opportunities to practice welding in a wider ranger of positions and material configurations. Through these events, both the participants and I developed a stronger understanding of the practical considerations involved in selecting and applying welding processes during Formula SAE vehicle development. 
-
