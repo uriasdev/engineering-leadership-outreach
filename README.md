@@ -1,30 +1,40 @@
+# Engineering Leadership & Outreach
+
+This repository documents engineering leadership, technical training, and outreach activities I have organized or contributed.
+
+The purpose of this repository is to highlight my experiences that extend beyond individual design work, including technical leadership, member development, and manufacturing education.
+
+# Formula SAE Leadership
+
+I serve as the Electrics Lead for CSULB Formula SAE, where I coordinate five electrical subgroups working across the vehicle's LV and HV systems
+
+My responsibilities include:
+ - Establishing technical priorities and project deadlines
+ - Coordinating progress between electrical subgroups
+ - Reviewing subsystem development and integration requirements
+ - Communicating electrical packaging and interface changes with other vehicle subsystem leads
+ - Supporting PCB, wire harness, controls, power distribution, and electricla safety development
+ - Managing component selection , BOM development, sourcing, and design readiness
+ - Helping prepare the elctrical system for integration, manufacturing, testing, and competition
+
+This role has given me experience balancing technical engineering work with project management, communication, and team development
+
 # SAE Welding Workshops
 
-I organized and hosted three welding workshops for SAE members to introduce welding techniques, safe operating practices, and manufacturing considerations relevant to Formula SAE vehicle development. The purpose of these events was to help members build practical fabrication skills that could be applied during vehicle manufacturing and assembly.
+I organized and hosted three welding workshops to provide SAE members with practical manufacturing experience applicable to Formula SAE and Baja SAE vehicle development.
 
-# TIG Welding Workshop
-
-I coordinated a TIG welding workshop with a qualified technician and worked with a faculty member to schedule the event and secure access to the necessary equipment
-
-Topics covered include:
- - TIG welding machine and tool identification
- - Basic welding techniques and setup
- - Welding safety procedures and required PPE
- - Proper tungsten electrode preparation and grinding
- - Appropriate applications for TIG welding
- - Material and process considerations for vehicle fabrication
-
-# MIG Welding Workshops
-
-I later organized two MIG welding workshops with a qualified technician. These workshops covered similar fundamentals while focusing specifically on the operation and characteristics of MIG welding
+The workshops were coordinated with university faculty and qualified technicians and included one TIG welding session and two MIG welding sessions.
 
 Topics included:
- - MIG welding machine and tool identification
- - Welding safety procedures and equipment setup
- - Operation of the continuously fed filler wire system
- - Common feeding and welding issues and how to troubleshoot them
- - Appropriate applications for MIG welding
- - Comparison of MIG and TIG welding processes
- - Welding in different positions and material orientations
+ - Welding equipment and machine component identification.
+ - MIG and TIG welding fundamentals
+ - Required PPE and shop safety practices
+ - Material and process considerations
+ - Welding setup and operating techniques
+ - Tungsten prepartion for TIG welding
+ - MIG filler-wire operation and troubleshooting
+ - Welding positions and material orientation
+ - Selecting MIG or TIG based on the material, component, and fabrication requirements
 
-The MIG workshops provided additional opportunities to practice welding in a wider ranger of positions and material configurations. Through these events, both the participants and I developed a stronger understanding of the practical considerations involved in selecting and applying welding processes during Formula SAE vehicle development. 
+The goal of the workshops was to provide members with hands-on experience and improve the team's understanding of how manufacturing decisions influence vehicle design
+
