@@ -7,8 +7,8 @@ My responsibilities include:
  - Coordinating progress between electrical subgroups
  - Reviewing subsystem development and integration requirements
  - Communicating electrical packaging and interface changes with other vehicle subsystem leads
- - Supporting PCB, wire harness, controls, power distribution, and electricla safety development
- - Managing component selection , BOM development, sourcing, and design readiness
- - Helping prepare the elctrical system for integration, manufacturing, testing, and competition
+ - Supporting PCB, wire harness, controls, power distribution, and electrical safety development
+ - Managing component selection, BOM development, sourcing, and design readiness
+ - Helping prepare the electrical system for integration, manufacturing, testing, and competition
 
 This role has given me experience balancing technical engineering work with project management, communication, and team development
