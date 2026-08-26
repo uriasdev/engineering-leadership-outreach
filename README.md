@@ -4,32 +4,25 @@ This repository documents engineering leadership, technical training, and outrea
 
 The purpose of this repository is to highlight my experiences that extend beyond individual design work, including technical leadership, member development, and manufacturing education.
 
-# Formula SAE Leadership
+## Contents
 
+### Formula SAE Leadership
 
+Leadership experience as Electrics Lead for CSULB Formula SAE, coordinating five electrical subgroups and supporting multidisciplinary vehicle development.
 
-# SAE Welding Workshops
+[View Formula SAE Leadership](./formula-sae-leadership/README.md)
 
-I organized and hosted three welding workshops to provide SAE members with practical manufacturing experience applicable to Formula SAE and Baja SAE vehicle development.
+### Welding Workshops
 
-The workshops were coordinated with university faculty and qualified technicians and included one TIG welding session and two MIG welding sessions.
+Documentation of three MIG/TIG welding workshops organized for SAE members covering safety, equipment fundamentals, welding techniques, and manufacturing applications
 
-Topics included:
- - Welding equipment and machine component identification.
- - MIG and TIG welding fundamentals
- - Required PPE and shop safety practices
- - Material and process considerations
- - Welding setup and operating techniques
- - Tungsten prepartion for TIG welding
- - MIG filler-wire operation and troubleshooting
- - Welding positions and material orientation
- - Selecting MIG or TIG based on the material, component, and fabrication requirements
+[View Welding Workshops](./sae-welding/README.md)
 
-The goal of the workshops was to provide members with hands-on experience and improve the team's understanding of how manufacturing decisions influence vehicle design
+### Manufacturing Coordination
 
-# Manufacturing Coordination
+Documentation of how the welding workshops helped highlight the need for more structured support and coordination between Formula SAE and Baja SAE
 
-
+[View Manufacturing Coordination](./manufacturing-coordination/README.md)
 
 # Repository Contents
 
